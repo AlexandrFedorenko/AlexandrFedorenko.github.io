@@ -1,11 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cb055cd-2b70-49d8-a4b3-9b6cb1e87ca7" name="Default" comment="">
+    <list default="true" id="369be422-505a-40ad-8bce-a874f1800c12" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/bourbon/_bourbon.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/sass/bourbon/_bourbon.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/photo2.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/_bourbon-deprecated-upcoming.scss" afterPath="$PROJECT_DIR$/sass/bourbon/_bourbon-deprecated-upcoming.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_border-color.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_border-color.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_border-radius.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_border-radius.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_border-style.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_border-style.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_border-width.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_border-width.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_buttons.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_buttons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_clearfix.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_clearfix.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_ellipsis.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_ellipsis.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_font-stacks.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_font-stacks.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_hide-text.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_hide-text.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_margin.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_margin.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_padding.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_padding.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_position.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_position.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_prefixer.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_prefixer.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_retina-image.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_retina-image.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_size.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_size.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_text-inputs.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_text-inputs.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_timing-functions.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_timing-functions.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_triangle.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_triangle.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/addons/_word-wrap.scss" afterPath="$PROJECT_DIR$/sass/bourbon/addons/_word-wrap.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_animation.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_animation.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_appearance.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_appearance.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_backface-visibility.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_backface-visibility.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_background-image.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_background-image.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_background.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_background.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_border-image.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_border-image.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_calc.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_calc.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_columns.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_columns.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_filter.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_filter.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_flex-box.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_flex-box.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_font-face.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_font-face.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_font-feature-settings.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_font-feature-settings.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_hidpi-media-query.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_hidpi-media-query.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_hyphens.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_hyphens.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_image-rendering.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_image-rendering.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_keyframes.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_keyframes.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_linear-gradient.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_linear-gradient.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_perspective.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_perspective.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_placeholder.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_placeholder.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_radial-gradient.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_radial-gradient.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_selection.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_selection.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_text-decoration.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_text-decoration.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_transform.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_transform.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_transition.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_transition.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/css3/_user-select.scss" afterPath="$PROJECT_DIR$/sass/bourbon/css3/_user-select.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_assign-inputs.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_assign-inputs.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_contains-falsy.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_contains-falsy.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_contains.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_contains.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_is-length.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_is-length.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_is-light.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_is-light.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_is-number.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_is-number.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_is-size.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_is-size.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_modular-scale.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_modular-scale.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_px-to-em.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_px-to-em.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_px-to-rem.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_px-to-rem.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_shade.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_shade.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_strip-units.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_strip-units.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_tint.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_tint.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_transition-property-name.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_transition-property-name.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/functions/_unpack.scss" afterPath="$PROJECT_DIR$/sass/bourbon/functions/_unpack.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_convert-units.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_convert-units.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_directional-values.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_directional-values.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_font-source-declaration.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_font-source-declaration.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_gradient-positions-parser.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_gradient-positions-parser.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_linear-angle-parser.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_linear-angle-parser.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_linear-gradient-parser.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_linear-gradient-parser.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_linear-positions-parser.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_linear-positions-parser.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_linear-side-corner-parser.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_linear-side-corner-parser.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_radial-arg-parser.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_radial-arg-parser.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_radial-gradient-parser.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_radial-gradient-parser.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_radial-positions-parser.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_radial-positions-parser.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_render-gradients.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_render-gradients.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_shape-size-stripper.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_shape-size-stripper.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/helpers/_str-to-num.scss" afterPath="$PROJECT_DIR$/sass/bourbon/helpers/_str-to-num.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/settings/_asset-pipeline.scss" afterPath="$PROJECT_DIR$/sass/bourbon/settings/_asset-pipeline.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/settings/_prefixer.scss" afterPath="$PROJECT_DIR$/sass/bourbon/settings/_prefixer.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/bourbon/settings/_px-to-em.scss" afterPath="$PROJECT_DIR$/sass/bourbon/settings/_px-to-em.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/fonts.sass" afterPath="$PROJECT_DIR$/sass/fonts.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/main.sass" afterPath="$PROJECT_DIR$/sass/main.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/skins/blue.sass" afterPath="$PROJECT_DIR$/sass/skins/blue.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/skins/pink.sass" afterPath="$PROJECT_DIR$/sass/skins/pink.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/skins/purple.sass" afterPath="$PROJECT_DIR$/sass/skins/purple.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/sass/skins/tomato.sass" afterPath="$PROJECT_DIR$/sass/skins/tomato.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/common.js" afterPath="$PROJECT_DIR$/js/common.js" />
     </list>
-    <ignored path="готовая верстка html мое портфолио.iws" />
+    <ignored path="eg-1.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,15 +110,45 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="готовая верстка html мое портфолио" />
+    <favorites_list name="eg-1" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="414" column="20" selection-start-line="414" selection-start-column="24" selection-end-line="450" selection-end-column="30" />
+            <state relative-caret-position="374">
+              <caret line="523" column="60" selection-start-line="523" selection-start-column="51" selection-end-line="523" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mail.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="105" selection-start-line="11" selection-start-column="105" selection-end-line="11" selection-end-column="105" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="603">
+              <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/main.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4777">
+              <caret line="281" column="34" selection-start-line="281" selection-start-column="34" selection-end-line="281" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -41,7 +162,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/scss/style.scss" />
+        <option value="$PROJECT_DIR$/sass/main.sass" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/mail.php" />
+        <option value="$PROJECT_DIR$/js/common.js" />
       </list>
     </option>
   </component>
@@ -51,11 +177,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="876" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -83,155 +213,102 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="готовая верстка html мое портфолио" />
+              <option name="myItemId" value="AlexandrFedorenko" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="готовая верстка html мое портфолио" />
+              <option name="myItemId" value="AlexandrFedorenko" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="готовая верстка html мое портфолио" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="AlexandrFedorenko" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="готовая верстка html мое портфолио" />
+              <option name="myItemId" value="AlexandrFedorenko" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="готовая верстка html мое портфолио" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="AlexandrFedorenko" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="готовая верстка html мое портфолио" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="готовая верстка html мое портфолио" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio-images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" value="" />
-      <option name="executablePath" />
-      <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8cb055cd-2b70-49d8-a4b3-9b6cb1e87ca7" name="Default" comment="" />
-      <created>1491745661138</created>
+      <changelist id="369be422-505a-40ad-8bce-a874f1800c12" name="Default" comment="" />
+      <created>1502262651272</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1491745661138</updated>
-      <workItem from="1491745663305" duration="103000" />
-      <workItem from="1491747476595" duration="3190000" />
+      <updated>1502262651272</updated>
+      <workItem from="1502262656520" duration="1222000" />
+      <workItem from="1502264749964" duration="85000" />
+      <workItem from="1502267144646" duration="567000" />
+      <workItem from="1502270237928" duration="27000" />
+      <workItem from="1504595828584" duration="1045000" />
+      <workItem from="1504597264237" duration="128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3293000" />
+    <option name="totallyTimeSpent" value="3074000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -243,21 +320,94 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9112">
+          <caret line="536" column="51" selection-start-line="536" selection-start-column="44" selection-end-line="536" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/portfolio-images/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4777">
+          <caret line="281" column="34" selection-start-line="281" selection-start-column="34" selection-end-line="281" selection-end-column="34" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="414" column="20" selection-start-line="414" selection-start-column="24" selection-end-line="450" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/style.scss" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/style.scss" />
+    <entry file="file://C:/Новая папка/001/index.html" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://C:/eg-1/index.php" />
+    <entry file="file://$PROJECT_DIR$/scss/style.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4777">
+          <caret line="281" column="34" selection-start-line="281" selection-start-column="34" selection-end-line="281" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Мои/gulp-start/app/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="7" selection-start-line="9" selection-start-column="4" selection-end-line="25" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="105" selection-start-line="11" selection-start-column="105" selection-end-line="11" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="523" column="60" selection-start-line="523" selection-start-column="51" selection-end-line="523" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
           <folding />
         </state>
       </provider>

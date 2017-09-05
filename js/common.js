@@ -70,4 +70,24 @@ $(window).load(function() {
 	$(".top_text h1").animated("fadeInDown", "fadeOutUp");
 	$(".top_text p").animated("fadeInUp", "fadeOutDown");
 
-}); 
+});
+
+
+
+//E-mail Ajax Send
+//Documentation & Example: https://github.com/agragregra/uniMail
+$(".main_form").submit(function() { //Change
+	var th = $(this);
+	$.ajax({
+		type: "POST",
+		url: "../mail.php", //Change
+		data: th.serialize()
+	}).done(function() {
+		alert("Спасибо! Ваша зайвка принята!");
+		setTimeout(function() {
+			// Done Functions
+			th.trigger("reset");
+		}, 1000);
+	});
+	return false;
+});
