@@ -91,3 +91,10 @@ $(".main_form").submit(function() { //Change
 	});
 	return false;
 });
+
+$('.add-link-site').click(function (e) {
+	e.preventDefault();
+    var url = $(this).attr('data-attr');
+    $(location).attr('target','_blank').attr('href',url);
+
+});
